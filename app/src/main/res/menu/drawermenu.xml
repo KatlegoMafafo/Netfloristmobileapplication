@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+        android:id="@+id/menu_loginregister"
+        android:title="Login/Register"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/menu_trackorders" android:title="Track My Order"/>
+    <item android:id="@+id/menu_contactus" android:title="Contact Us"/>
+    <item android:id="@+id/menu_cat_Birthday" android:title="Birthday"/>
+    <item android:id="@+id/menu_cat_Occations" android:title="Occations"/>
+    <item android:id="@+id/menu_About" android:title="About Us"/>
+    <item android:id="@+id/menu_logout" android:title="Logout"/>
+
+</menu>

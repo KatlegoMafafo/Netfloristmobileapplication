@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497410702782",
+    "firebase_url": "https://netfloristdatabase.firebaseio.com",
+    "project_id": "netfloristdatabase",
+    "storage_bucket": "netfloristdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497410702782:android:11716ad3344865c5",
+        "android_client_info": {
+          "package_name": "mafafo.com.netfloristmobileapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497410702782-91n84p6ja18u4rktejuc1j10p0c3gh1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mafafo.com.netfloristmobileapplication",
+            "certificate_hash": "fda7eaaefa6c1f6e9f18340a216d659f096e4791"
+          }
+        },
+        {
+          "client_id": "497410702782-3csc6u4hchf47kn7m2b8r036m90qhk17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6jMgEK2zb1dzgZq8s6UjMHKOPATNXfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497410702782-3csc6u4hchf47kn7m2b8r036m90qhk17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
